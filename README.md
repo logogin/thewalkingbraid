@@ -38,5 +38,5 @@ more info at https://github.com/libgdx/libgdx-gradle-template
 * AmazDooM font http://www.dafont.com/amazdoom.font. Conversion from **TTF** into **fnt** done via Hiero tool from libgdx-tools
 * Hourglass icon https://www.iconfinder.com/icons/34227/clock_history_hourglass_pending_time_waiting_icon
 * Tiled map editor http://www.mapeditor.org/
-* Touchpad example www.bigerstaff.com/libgdx-touchpad-example/‎. Source code https://github.com/biggz/TouchPadTest
+* Touchpad example www.bigerstaff.com/libgdx-touchpad-example/. Source code https://github.com/biggz/TouchPadTest
 * Sprite Sheet Gimp plugin http://registry.gimp.org/node/20943
