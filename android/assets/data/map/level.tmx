@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="24" tileheight="24">
+ <tileset firstgid="1" name="sewer_tileset" tilewidth="24" tileheight="24">
+  <image source="sewer_tileset.png" trans="ff00ff" width="192" height="217"/>
+ </tileset>
+ <layer name="Bottom" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7AJQQ/+JeGCENKjfytJAQAAAAAAAACv9IEDAGwbPJ8Rqg==
+  </data>
+ </layer>
+ <layer name="Walls" width="50" height="50" opacity="0.49">
+  <data encoding="base64" compression="zlib">
+   eJztlksOwCAIBdl6/wv3ArWC8nnSN4kLUyFMAtYhIqPJup1uHgg9cJKjm8dt0AOL1Xy8nUWZnz95WEDoRXqcxURDDyyyPLzuqYiadmK8PKrm3LsX6ZEfY8lHj/gYS76sfwE9dPl27uyKRQ9s6IGFt8dXD2fEzvYVtdBjvq+oxWM+6XFeC5IHCvTAwuOtFvkm1J7t5lGF5c6iRzz02J/z1dxr8nX1sIDcV15Uenj1gCi+RxLh0WE9Z7oaIA==
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="50" height="50">
+  <object name="Player" x="48" y="984" width="24" height="24"/>
+  <object name="Mimic0" x="168" y="768" width="24" height="24"/>
+  <object name="Mimic1" x="911" y="769" width="24" height="24"/>
+  <object name="Mimic2" x="864" y="1032" width="24" height="24"/>
+  <object name="Mimic4" x="792" y="504" width="24" height="24"/>
+  <object name="Mimic3" x="432" y="408" width="24" height="24"/>
+  <object name="Key1" x="288" y="144" width="24" height="24"/>
+  <object name="Key2" x="936" y="144" width="24" height="24"/>
+  <object name="Key3" x="696" y="432" width="24" height="24"/>
+  <object name="Key4" x="648" y="744" width="24" height="24"/>
+  <object name="Key5" x="240" y="1128" width="24" height="24"/>
+  <object name="Key6" x="456" y="984" width="24" height="24"/>
+  <object name="Key7" x="120" y="360" width="24" height="24"/>
+  <object name="Key8" x="168" y="456" width="24" height="24"/>
+  <object name="Key9" x="456" y="48" width="24" height="24"/>
+  <object name="Mimic5" x="264" y="984" width="24" height="24"/>
+  <object name="Key10" x="1032" y="552" width="24" height="24"/>
+ </objectgroup>
+</map>
