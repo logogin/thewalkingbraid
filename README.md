@@ -5,6 +5,8 @@ The player is animated as [Braid](http://braid-game.com/) character. Your goal i
 * each collected key adds 10 seconds to the time limit
 * hitting monsters slows player down for 5 seconds
 
+[![The Walking Braid Video](http://img.youtube.com/vi/d7cobaV-StA/0.jpg)](http://www.youtube.com/watch?v=d7cobaV-StA)
+
 ## Implementation
 The touchpad handling and implementation was taken from [Touchpad Example](http://www.bigerstaff.com/libgdx-touchpad-example/).
 The project template was taken from [libgdx Gradle Template](https://github.com/libgdx/libgdx-gradle-template).
